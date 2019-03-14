@@ -1,2 +1,2 @@
-# Artificial-Intelligence
-AI stuff
+# Machine Learning with Matlab
+
